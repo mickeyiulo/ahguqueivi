@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wiboojuaz.rumpirates.com/sitemap.xml
